@@ -32,7 +32,7 @@
     "": "on",
     "robotsSwitcher": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-54539968-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-54539968-2');\n</script>",
-    "uniqCompNum": 17,
+    "uniqCompNum": 21,
     "versionPublish": "4.11.4"
   },
   "pages": {
@@ -278,9 +278,9 @@
           },
           "title1": "Kosztorysy",
           "subtitle1": "wyceny, przedmiary",
-          "caption1": "Jeżeli potrzebujesz poznać koszty remontu, przedmiar robót wg projektu lub poznać wartość robót budowlanych, to sprawdź tutaj.",
-          "title2": "Szkice budowlane",
-          "subtitle2": "Inwentaryzacje, CAD",
+          "caption1": "Jeżeli potrzebujesz poznać koszty remontu, przedmiar robót wg projektu lub poznać wartość robót budowlanych, zajrzyj tutaj.",
+          "title2": "Rysunki budowlane",
+          "subtitle2": "inwentaryzacje, CAD",
           "caption2": "Wykonujemy także inwentaryzacje robót, inwentaryzacje architektoniczne lub zwykłe szkice i rysunki w programie CAD.",
           "title3": "Doradztwo",
           "subtitle3": "odbiory robót",
@@ -295,7 +295,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -368,7 +368,7 @@
           "text2": "698 897 970",
           "text3": "Łódź, Andrzejów",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
-          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li>Szkice budowlane</li><li>Doradztwo</li><li>Koordynacja budowy</li>",
+          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li>Doradztwo</li><li>Koordynacja budowy</li>",
           "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>ul. T. Gajcego 228/230<br>92-610 Łódź<br>",
           "form": {
             "title": "MESSAGE",
@@ -415,7 +415,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Kosztorysy",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -544,7 +544,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Kosztorys jest częścią dokumentacji projektowej, pozwala na zaplowanie finansowania inwestycji. Choć nie jest wymagany, ani ściśle regulowany przepisami to warto go stworzyć przed rozpoczęciem remontu czy budowy, aby mieć pewność, że koszty nas nie zaskoczą. W zależności od sytuacji możemy jednak potrzebować różnych kosztorysów.</p><p>&nbsp; &nbsp; Istnieje wiele podziałów kosztorysów w zależności od jego funkcji i dokładności. Najprostszy podział ze względu na jego szczegółowość to kosztorysy uproszczone, czyli tworzone szacunkowo, oraz szczegółowe- z dokładnym przedmiarem. Kosztorys szczegółowy może bazować także na tzw. Katalogach Norm Rzeczowych (KNR) które podają dokładnie zużycie materiałów, oraz czas pracy ludzi i sprzętu konieczny do wykonania określonej pracy. Ze względu na funkcję najczęściej spotykamy koszotrys inwestorski (ile chce wydać zamawiający), ofertowy (ile chce za swoją prace wykonawca) &nbsp;oraz powykonawczy (ile to na prawdę kosztowało).&nbsp;</p><p>&nbsp; &nbsp; Ponadto istnieje jeszcze przedmiar robót. Jest to dość szczegółowe określenie ilości pracy jaka jest do wykonania na budowie. Pomaga przy tworzeniu kosztorysów. Może stanowić np bazę dla potencjalnych wykonawców, tak aby w swoich ofertach nie pominęli żadnych robót, lub nie zawyżali ilości pracy.&nbsp;<br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<br></p></blockquote>",
+          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Kosztorys jest częścią dokumentacji projektowej, pozwala na zaplowanie finansowania inwestycji. Choć nie jest wymagany, ani ściśle regulowany przepisami to warto go stworzyć przed rozpoczęciem remontu czy budowy, aby mieć pewność, że koszty nas nie zaskoczą. W zależności od sytuacji możemy jednak potrzebować różnych kosztorysów.</p><p><br></p><p>&nbsp; &nbsp; Istnieje wiele podziałów kosztorysów w zależności od jego funkcji i dokładności. Najprostszy podział ze względu na jego szczegółowość to kosztorysy uproszczone, czyli tworzone szacunkowo, oraz szczegółowe- z dokładnym przedmiarem. Kosztorys szczegółowy może bazować także na tzw. Katalogach Norm Rzeczowych (KNR) które podają dokładnie zużycie materiałów, oraz czas pracy ludzi i sprzętu konieczny do wykonania określonej pracy. Ze względu na funkcję najczęściej spotykamy koszotrys inwestorski (ile chce wydać zamawiający), ofertowy (ile chce za swoją prace wykonawca) &nbsp;oraz powykonawczy (ile to na prawdę kosztowało).&nbsp;</p><p><br></p><p>&nbsp; &nbsp; Ponadto istnieje jeszcze przedmiar robót. Jest to dość szczegółowe określenie ilości pracy jaka jest do wykonania na budowie. Pomaga przy tworzeniu kosztorysów. Może stanowić np bazę dla potencjalnych wykonawców, tak aby w swoich ofertach nie pominęli żadnych robót, lub nie zawyżali ilości pracy.&nbsp;<br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -613,7 +613,7 @@
           "text2": "698 897 970",
           "text3": "Łódź, Andrzejów",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
-          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li>Szkice budowlane</li><li>Doradztwo</li><li>Koordynacja budowy</li>",
+          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li>Doradztwo</li><li>Koordynacja budowy</li>",
           "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>ul. T. Gajcego 228/230<br>92-610 Łódź<br>",
           "form": {
             "title": "MESSAGE",
@@ -653,6 +653,251 @@
             }
           },
           "_anchor": "contacts3-d"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Rysunki budowlane",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-7\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-7\">OFERTA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-8\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/miara-3-160x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TOKU Projekt</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Rysunki budowlane",
+          "text": "<p>inwentaryzacje, CAD</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Tak jak łacina jest współnym językiem lekarzy, tak inżynierowie z całego świata mogą porozumieć się za pomocą rysunku budowlanego. Czy to w formie projektu, czy też zwykłego szkicu, jest nieodzonym elementem każdej budowy. Czasem także jest to najlepszy sposób na jasny przekaz dla wykonawcy do jakiego celu ma dążyć.</p><p><br></p><p>&nbsp; &nbsp; Szczególną formą rysunku jest np inwentaryzacja budowlana, odzwierciedla ona stan istniejący budynku. Jest szczególnie przydatna gdy właściciel budowli nie posiada projektu, lub na przestrzeni lat, pow ielu zmianach odbiega on od stanu istniejącego. Inwentaryzacja może pomóc wówczas przy planowaniu remontów, czy zmiany aranżacji.&nbsp;</p><p><br></p><p>&nbsp; &nbsp; W naszej firmie korzystamy z programów typu CAD. Jest to nowoczesne narzędzia do tworzenia, przerabiania i drukowania, rysunków i projektów budowlanych. Znaczaco ułatwia to prace inżynierom i daje czytelny pogląd inwestorowi.<br></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/miara-3-265x212.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>",
+          "title1": "Zakładki",
+          "text1": "W przypadku pytań lub zainteresowania naszą ofertą prosmy o kontakt, postaramy się odpowiedzieć w możliwie krótkim czasie.",
+          "text2": "698 897 970",
+          "text3": "Łódź, Andrzejów",
+          "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
+          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li>Doradztwo</li><li>Koordynacja budowy</li>",
+          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>ul. T. Gajcego 228/230<br>92-610 Łódź<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "zbigniew.topolski@gmail.com",
+            "alerts": {
+              "success": "Dziekujemy za kontakt!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-i"
         }
       ]
     }
