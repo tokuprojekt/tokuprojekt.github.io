@@ -25,6 +25,13 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
+    "sitemapSwitcher": true,
+    "siteUrl": "https://tokuprojekt.github.io/",
+    "sitemapSwitcherAuto": true,
+    "favicon": "",
+    "": "on",
+    "robotsSwitcher": false,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-54539968-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-54539968-2');\n</script>",
     "uniqCompNum": 12,
     "versionPublish": "4.11.4"
   },
