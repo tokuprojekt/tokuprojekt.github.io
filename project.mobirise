@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TOKU Projekt",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -278,7 +278,7 @@
           },
           "title1": "Kosztorysy",
           "subtitle1": "wyceny, przedmiary",
-          "caption1": "Jeżel chcesz poznać koszty remontu, potrzebujesz przedmiar robót wg projektu lub poznać wartość robót budowlanych, zajrzyj tutaj.",
+          "caption1": "Jeżeli chcesz poznać koszty remontu, &nbsp;wartość robót budowlanych lub potrzebujesz przedmiar robót według projektu, zajrzyj tutaj.",
           "title2": "Rysunki budowlane",
           "subtitle2": "inwentaryzacje, CAD",
           "caption2": "Wykonujemy także inwentaryzacje robót, inwentaryzacje architektoniczne lub zwykłe szkice i rysunki w programie CAD.",
@@ -287,7 +287,7 @@
           "caption3": "Chcesz sprawdzić prawidłowość robót wykonawcy? Może potrzebujesz pomocy w znalezieniu nowej ekipy? Nie wiesz, od czego zacząć remont? Zapraszam do kontaktu.",
           "title4": "Koordynacja budowy",
           "subtitle4": "czyli obsługa w pełnym zakresie",
-          "caption4": "Dla większych inwestycji lub firm budowlanych, oferujemy także kompleksową lub częściową koordynacje budowy.",
+          "caption4": "Dla większych inwestycji lub firm budowlanych oferujemy także kompleksową lub częściową koordynację budowy.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -544,7 +544,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Kosztorys jest częścią dokumentacji projektowej, pozwala na zaplanowanie finansowania inwestycji. Choć nie jest wymagany ani ściśle regulowany przepisami, to warto go stworzyć przed rozpoczęciem remontu czy budowy, aby mieć pewność, że koszty nas nie zaskoczą. W zależności od sytuacji możemy jednak potrzebować różnych kosztorysów.</p><p><br></p><p>&nbsp; &nbsp; Istnieje wiele podziałów kosztorysów w zależności od jego funkcji i dokładności. Najprostszy podział ze względu na jego szczegółowość to kosztorys uproszczony, czyli tworzone szacunkowo, oraz szczegółowy- z dokładnym przedmiarem. Kosztorys szczegółowy może bazować także na tzw. Katalogach Norm Rzeczowych (KNR), które podają dokładnie zużycie materiałów oraz czas pracy ludzi i sprzętu koniecznego do wykonania określonej pracy. Ze względu na funkcję najczęściej spotykamy kosztorys inwestorski (ile chce wydać zamawiający), ofertowy (ile chce za swoją pracę wykonawca) &nbsp;oraz powykonawczy (ile to naprawdę kosztowało).&nbsp;</p><p><br></p><p>&nbsp; &nbsp; Ponadto istnieje jeszcze przedmiar robót. Jest to dość szczegółowe określenie ilości pracy jaka jest do wykonania na budowie. Pomaga przy tworzeniu kosztorysów. Może stanowić np. bazę dla potencjalnych wykonawców, tak aby w swoich ofertach nie pominęli żadnych robót lub nie zawyżali ilości pracy.&nbsp;</p></blockquote>",
+          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Kosztorys jest częścią dokumentacji projektowej, pozwala na zaplanowanie finansowania inwestycji. Choć nie jest wymagany ani ściśle regulowany przepisami, to warto go stworzyć przed rozpoczęciem remontu czy budowy, aby mieć pewność, że koszty nas nie zaskoczą. W zależności od sytuacji możemy jednak potrzebować różnych kosztorysów.</p><p><br></p><p>&nbsp; &nbsp; Istnieje wiele podziałów kosztorysów w zależności od ich funkcji i dokładności. Najprostszy podział ze względu na jego szczegółowość to kosztorys uproszczony, czyli tworzony szacunkowo oraz szczegółowy- z dokładnym przedmiarem. Kosztorys szczegółowy może bazować także na tzw. Katalogach Norm Rzeczowych (KNR), które podają dokładnie zużycie materiałów oraz czas pracy ludzi i sprzętu koniecznego do wykonania określonej pracy. Ze względu na funkcję najczęściej spotykamy kosztorys inwestorski (ile chce wydać zamawiający), ofertowy (ile chce za swoją pracę wykonawca) &nbsp;oraz powykonawczy (ile to naprawdę kosztowało).&nbsp;</p><p><br></p><p>&nbsp; &nbsp; Ponadto istnieje jeszcze przedmiar robót. Jest to dość szczegółowe określenie ilości pracy jaka jest do wykonania na budowie. Pomaga przy tworzeniu kosztorysów. Może stanowić np. bazę dla potencjalnych wykonawców, tak aby w swoich ofertach nie pominęli żadnych robót lub nie zawyżali ilości pracy.&nbsp;</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -789,7 +789,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Tak jak łacina jest wspólnym językiem lekarzy, tak inżynierowie z całego świata mogą porozumieć się za pomocą rysunku budowlanego. Czy to w formie projektu, czy też zwykłego szkicu - to nieodzony element każdej budowy. Czasem to najlepszy sposób na jasny przekaz dla wykonawcy, czego oczekuje od niego inwestor.</p><p><br></p><p>&nbsp; &nbsp; Szczególną formą rysunku jest np. inwentaryzacja budowlana - odzwierciedla ona stan istniejący budynku. Jest szczególnie przydatna, gdy właściciel budowli nie posiada projektu, lub na przestrzeni lat, po wielu zmianach, odbiega on od stanu istniejącego. Inwentaryzacja może pomóc wówczas przy planowaniu remontów czy zmiany aranżacji.&nbsp;</p><p><br></p><p>&nbsp; &nbsp; W naszej firmie korzystamy z programów typu CAD. Jest to nowoczesne narzędzie do tworzenia, przerabiania i drukowania, rysunków oraz projektów budowlanych. Znacząco ułatwia to prace inżynierom i daje czytelny pogląd inwestorowi.<br></p></blockquote>",
+          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Tak jak łacina jest wspólnym językiem lekarzy, tak inżynierowie z całego świata mogą porozumieć się za pomocą rysunku budowlanego. Czy to w formie projektu, czy też zwykłego szkicu - to nieodzowny element każdej budowy. Czasem to najlepszy sposób na jasny przekaz dla wykonawcy, czego oczekuje od niego inwestor.</p><p><br></p><p>&nbsp; &nbsp; Szczególną formą rysunku jest np. inwentaryzacja budowlana - odzwierciedla ona stan istniejący budynku. Jest szczególnie przydatna, gdy właściciel budowli nie posiada projektu lub na przestrzeni lat, po wielu zmianach, odbiega on od stanu istniejącego. Inwentaryzacja może pomóc wówczas przy planowaniu remontów czy zmiany aranżacji.&nbsp;</p><p><br></p><p>&nbsp; &nbsp; W naszej firmie korzystamy z programów typu CAD. Jest to nowoczesne narzędzie do tworzenia, przerabiania i drukowania rysunków oraz projektów budowlanych. Znacząco ułatwia to pracę inżynierom i daje czytelny pogląd inwestorowi.<br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1039,7 +1039,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Małe inwestycje czy remonty często są prowadzone osobiście przez inwestorów. Z braku specjastycznej wiedzy potrzebują oni jednak wsparcia. Czasem trzeba polecić wykonawcę, sprawdzić ofertę, skontrować jakość wykonanych robót lub nakreślić plan działania. Nasza firma stara się wyjść naprzeciw takim potrzebom i wspomóc niewielkie inwestycje także pojedynczymi spotkaniami.</p></blockquote>",
+          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Małe inwestycje czy remonty często są prowadzone osobiście przez inwestorów. Z powodu braku specjastycznej wiedzy potrzebują oni jednak wsparcia. Czasem trzeba polecić wykonawcę, sprawdzić ofertę, skontrować jakość wykonanych robót lub nakreślić plan działania. Nasza firma stara się wyjść naprzeciw takim potrzebom i wspomóc niewielkie inwestycje także pojedynczymi spotkaniami.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1284,7 +1284,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>&nbsp; &nbsp; Na dużej budowie dużo się dzieje, czasem potrzebna jest dodatkowa para rąk i oczu, by nad wszystkim zapanować.&nbsp;</p><p><br></p><p>&nbsp; &nbsp; Inżynier na budowie zawsze się przyda, np. aby znaleźć podwykonawcę, wykonać kosztorys, sprawdzić jakość prac, rozwiązać kolizje, zaplanować kolejne roboty, skontrolować obmiar itp. Zazwyczaj takie osoby pracują w dużych firmach zwanych generalnymi wykonawcami. Nic nie stoi jednak na przeszkodzie, aby taką osobę wynajął bezpośrednio inwestor. Jeżeli potrzebujesz kogoś, kto regularnie będzie odwiedział twoją budowę (lub zostanie na niej trochę dłużej) to zapraszamy do kontaktu.&nbsp;<br></p></blockquote>",
+          "text": "<blockquote><p>&nbsp; &nbsp; Na dużej budowie dużo się dzieje, czasem potrzebna jest dodatkowa para rąk i oczu, by nad wszystkim zapanować.&nbsp;</p><p><br></p><p>&nbsp; &nbsp; Inżynier na budowie zawsze się przyda, np. aby znaleźć podwykonawcę, wykonać kosztorys, sprawdzić jakość prac, rozwiązać kolizje, zaplanować kolejne roboty, skontrolować obmiar itp. Zazwyczaj takie osoby pracują w dużych firmach zwanych generalnymi wykonawcami. Nic nie stoi jednak na przeszkodzie, aby taką osobę wynajął bezpośrednio inwestor. Jeżeli potrzebujesz inżyniera, który regularnie będzie odwiedzał twoją budowę (lub zostanie na niej trochę dłużej) to zapraszamy do kontaktu.&nbsp;<br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
