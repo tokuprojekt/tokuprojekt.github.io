@@ -32,8 +32,9 @@
     "": "on",
     "robotsSwitcher": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-54539968-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-54539968-2');\n</script>",
-    "uniqCompNum": 30,
-    "versionPublish": "4.11.4"
+    "uniqCompNum": 44,
+    "versionPublish": "4.11.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -186,12 +187,53 @@
             "overlayOpacity": 0.5
           },
           "title": "Nasza oferta",
-          "caption": "<p>Firma TOKU Projekt Zbigniew Topolski działa w szeroko pojętym rynku budowlanym. Dzięki wieloletniemu doświadczeniu jesteśmy w stanie zaoferować szeroki wachlarz usług. Współpracujemy zarówno z klientami indywidualnymi, jak i przedsiębiorstwami. Możemy przygotować dla Państwa między innymi: kosztorysy, przedmiary, szkice budowlane czy inwentaryzacje. Zajmujemy się również doradztwem, odbiorem prac budowlanych czy też koordynacją robót. Zadzwoń, aby poznać więcej szczegółów.</p>",
+          "caption": "<p>Firma TOKU Projekt Zbigniew Topolski działa w szeroko pojętym rynku budowlanym. Dzięki wieloletniemu doświadczeniu jesteśmy w stanie zaoferować szeroki wachlarz usług. Współpracujemy zarówno z klientami indywidualnymi, jak i przedsiębiorstwami. Możemy przygotować dla Państwa między innymi: kosztorysy, przedmiary, szkice budowlane czy inwentaryzacje. Zajmujemy się również doradztwem, odbiorem prac budowlanych czy też koordynacją robót.&nbsp;<span style=\"font-size: 1.07rem;\">Od 2021r dzięki inwestycji w Pyszkowie, produkujemy również betonową kostę brukową. Zadzwoń, aby poznać więcej szczegółów.</span></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
           "_anchor": "content5-7"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sam-1567-2000x1423.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Kostka brukowa",
+          "text": "<p>Od wiosny 2021r zajmujemy się produkcją betonowe kostki brukowej.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;W nowutworzonym zakładzie w Pyszkowie powstaje linia do produkcji drobnowymiarowych elementów wibroprasowanych. Metoda wibroprasowania polega na jednoczesnym oddziaływaniu na mieszankę betonową wibracji oraz wysokiego ciśnienia (poprzez prasę), które odpowiednio zagęszczają beton. Dzięki temu gotowy produkt cechuje się wysoką wytzymałością.</p><p></p><div>\n</div><div>&nbsp; &nbsp; Aktualnie w naszej ofercie znajdują się 2 rodzaje kostki betonowej o grubości 6cm i klasycznej, gładkiej powierzchni.</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Zobacz więcej</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-16"
         },
         {
           "_params": {
@@ -418,10 +460,10 @@
           "title1": "Zakładki",
           "text1": "W przypadku pytań lub zainteresowania naszą ofertą prosimy o kontakt, postaramy się odpowiedzieć jak najszybciej.",
           "text2": "698 897 970",
-          "text3": "Łódź, Andrzejów",
+          "text3": "Pyszkowo pow. Włocławski",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
           "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li>",
-          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>ul. T. Gajcego 228/230<br>92-610 Łódź<br>",
+          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>Pyszkowo 9 (pow. Włocławski)<br>87-851 Boniewo",
           "form": {
             "title": "MESSAGE",
             "action": "zbigniew.topolski@gmail.com",
@@ -467,7 +509,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Kosztorysy",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -663,10 +705,10 @@
           "title1": "Zakładki",
           "text1": "W przypadku pytań lub zainteresowania naszą ofertą prosimy o kontakt, postaramy się odpowiedzieć jak najszybciej.",
           "text2": "698 897 970",
-          "text3": "Łódź, Andrzejów",
+          "text3": "Pyszkowo pow. Włocławski",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
           "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li>",
-          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>ul. T. Gajcego 228/230<br>92-610 Łódź<br>",
+          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>Pyszkowo 9 (pow. Włocławski)<br>87-851 Boniewo",
           "form": {
             "title": "MESSAGE",
             "action": "zbigniew.topolski@gmail.com",
@@ -712,7 +754,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Rysunki budowlane",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -913,10 +955,10 @@
           "title1": "Zakładki",
           "text1": "W przypadku pytań lub zainteresowania naszą ofertą prosimy o kontakt, postaramy się odpowiedzieć jak najszybciej.",
           "text2": "698 897 970",
-          "text3": "Łódź, Andrzejów",
+          "text3": "Pyszkowo pow. Włocławski",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
           "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li>",
-          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>ul. T. Gajcego 228/230<br>92-610 Łódź<br>",
+          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>Pyszkowo 9 (pow. Włocławski)<br>87-851 Boniewo",
           "form": {
             "title": "MESSAGE",
             "action": "zbigniew.topolski@gmail.com",
@@ -962,7 +1004,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Doradztwo",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1158,10 +1200,10 @@
           "title1": "Zakładki",
           "text1": "W przypadku pytań lub zainteresowania naszą ofertą prosimy o kontakt, postaramy się odpowiedzieć jak najszybciej.",
           "text2": "698 897 970",
-          "text3": "Łódź, Andrzejów",
+          "text3": "Pyszkowo pow. Włocławski",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
           "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li>",
-          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>ul. T. Gajcego 228/230<br>92-610 Łódź<br>",
+          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>Pyszkowo 9 (pow. Włocławski)<br>87-851 Boniewo",
           "form": {
             "title": "MESSAGE",
             "action": "zbigniew.topolski@gmail.com",
@@ -1403,10 +1445,10 @@
           "title1": "Zakładki",
           "text1": "W przypadku pytań lub zainteresowania naszą ofertą prosimy o kontakt, postaramy się odpowiedzieć jak najszybciej.",
           "text2": "698 897 970",
-          "text3": "Łódź, Andrzejów",
+          "text3": "Pyszkowo pow. Włocławski",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
           "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li>",
-          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>ul. T. Gajcego 228/230<br>92-610 Łódź<br>",
+          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>Pyszkowo 9 (pow. Włocławski)<br>87-851 Boniewo",
           "form": {
             "title": "MESSAGE",
             "action": "zbigniew.topolski@gmail.com",
@@ -1445,6 +1487,345 @@
             }
           },
           "_anchor": "contacts3-q"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Kostka brukowa",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sam-1567-2000x1423.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Kostka brukowa",
+          "text": "<p>podjazdy, chodniki, podwórka</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-z"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/holland-600x435.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kolory-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Holland",
+          "subtitle1": "grubość 6cm",
+          "caption1": "Prosty, estetyczny i dobrze znany wzór. Pozwala układać wzory, kształty a nawet napisy.",
+          "title2": "Nostalit",
+          "subtitle2": "grubość 6cm",
+          "caption2": "3 kostki o różnej wielkości w połączeniu z zaokrągleniami dają efekt przypominający stare brukowane ulice.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"assets/files/Oferta.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Oferta</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"assets/files/Oferta.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Oferta</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-12"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-7\">OFERTA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-t\">OPINIE KLIENTÓW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-8\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/miara-3-160x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TOKU Projekt</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/miara-3-265x212.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>",
+          "title1": "Zakładki",
+          "text1": "W przypadku pytań lub zainteresowania naszą ofertą prosimy o kontakt, postaramy się odpowiedzieć jak najszybciej.",
+          "text2": "698 897 970",
+          "text3": "Pyszkowo pow. Włocławski",
+          "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
+          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li>",
+          "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>Pyszkowo 9 (pow. Włocławski)<br>87-851 Boniewo",
+          "form": {
+            "title": "MESSAGE",
+            "action": "zbigniew.topolski@gmail.com",
+            "alerts": {
+              "success": "Dziekujemy za kontakt!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-11"
         }
       ]
     }
