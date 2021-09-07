@@ -32,10 +32,11 @@
     "": "on",
     "robotsSwitcher": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-54539968-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-54539968-2');\n</script>",
-    "uniqCompNum": 44,
+    "uniqCompNum": 48,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -155,7 +156,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TOKU Projekt",
-          "text": "Nasza pasja dla twojej wygody<br>",
+          "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -215,7 +216,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sam-1567-2000x1423.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20210824-93138-2000x2667.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1250,7 +1251,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Koordynacja budowy",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1495,7 +1496,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Kostka brukowa",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1511,7 +1512,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sam-1567-2000x1423.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20210622-94649-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1541,7 +1542,7 @@
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1568,21 +1569,25 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kolory-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20210824-93421-600x800.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20210907-92159-600x800.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -1615,9 +1620,9 @@
           "title2": "Nostalit",
           "subtitle2": "grubość 6cm",
           "caption2": "3 kostki o różnej wielkości w połączeniu z zaokrągleniami dają efekt przypominający stare, brukowane ulice.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "Nowość!",
+          "subtitle3": "Barwy jesieni",
+          "caption3": "Jesienne liście cieszą nasz wzrok bogatą paletą barw. Dziś kolory te możemy zachować przez cały rok, układając przed domem kostkę brukową o fakturze melanż. ",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -1627,9 +1632,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"assets/files/Oferta.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Oferta</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"assets/files/Oferta.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Oferta</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"assets/files/Oferta--TOKUkostka24.08.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Oferta</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"assets/files/Oferta--TOKUkostka24.08.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Oferta</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Kontakt</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1638,6 +1643,101 @@
           ],
           "_name": "features3",
           "_anchor": "features3-12"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20210824-93422-600x800.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20210824-93422-600x800-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20210907-92122-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20210907-92122-2000x2667-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20210622-94649-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20210622-94649-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20210622-94624-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20210622-94624-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20210828-105138-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20210828-105138-2000x2667-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20210828-105234-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20210828-105234-2000x2667-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "Wszytkie",
+          "_name": "gallery4",
+          "_anchor": "gallery4-1b"
         },
         {
           "_inherit": "menu",
