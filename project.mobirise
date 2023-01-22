@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TOKU Projekt",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -32,7 +32,7 @@
     "": "on",
     "robotsSwitcher": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-54539968-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-54539968-2');\n</script>",
-    "uniqCompNum": 48,
+    "uniqCompNum": 67,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -119,11 +119,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/miara-3-160x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -143,7 +144,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1131.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-wektorowe-uproszczone.svg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -155,7 +156,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "TOKU Projekt",
+          "title": "",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -189,7 +190,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Nasza oferta",
-          "caption": "<p>Firma TOKU Projekt Zbigniew Topolski działa w szeroko pojętym rynku budowlanym. Dzięki wieloletniemu doświadczeniu jesteśmy w stanie zaoferować szeroki wachlarz usług. Współpracujemy zarówno z klientami indywidualnymi, jak i przedsiębiorstwami. Możemy przygotować dla Państwa między innymi: kosztorysy, przedmiary, szkice budowlane czy inwentaryzacje. Zajmujemy się również doradztwem, odbiorem prac budowlanych czy też koordynacją robót.&nbsp;<span style=\"font-size: 1.07rem;\">Od 2021r dzięki inwestycji w Pyszkowie, produkujemy również betonową kostę brukową. Zadzwoń, aby poznać więcej szczegółów.</span></p>",
+          "caption": "<p>Firma TOKU Projekt Zbigniew Topolski działa w szeroko pojętym rynku budowlanym. </p><p>Dzięki wieloletniemu doświadczeniu jesteśmy w stanie zaoferować szeroki wachlarz usług. Współpracujemy zarówno z klientami indywidualnymi, jak i przedsiębiorstwami. Wykonujemy kompleksowo roboty budowlane takie jak remonty, wykończenia, przebudowy czy budowy nowych obiektów. Możemy przygotować dla Państwa między innymi: kosztorysy, przedmiary, szkice budowlane czy inwentaryzacje. Zajmujemy się również doradztwem i odbiorem prac budowlanych.&nbsp;<span style=\"font-size: 1.07rem;\">Od 2021r dzięki inwestycji w Pyszkowie, produkujemy również betonową kostkę brukową. </span></p><p><span style=\"font-size: 1.07rem;\">Zadzwoń, aby poznać więcej szczegółów.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -216,7 +217,48 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20210824-93138-2000x2667.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20230113-111545-800x600.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Roboty budowlane",
+          "text": "<p>Od wielu lat jesteśmy obecni na rynku budowlanym. Zebrane doświadczenie skutecznie wykorzystujemy realizując plany i marzenia naszych klientów. Jesteśmy gotowi nie tylko do prac wykończeniowych ale także kompleksowych remontów, adaptacji czy całych budów.</p><br><p>Do każdego klienta podchodzimy indywidualnie, starając się odpowiedzieć na jego potrzeby, szukamy optymalnych rozwiązań. Wszelkie prace wykonujemy ze szczególną starannością, by każda nasza realizacja była też reklamą firmy.</p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Zobacz więcej</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20220615-180717-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -417,13 +459,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/miara-3-265x212.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -464,7 +507,7 @@
           "text2": "698 897 970",
           "text3": "Pyszkowo pow. Włocławski",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
-          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li>",
+          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li><li><a href=\"page5.html\" class=\"text-primary\">Kostka brukowa</a></li><li><a href=\"page7.html\" class=\"text-primary\">Roboty budowlane</a></li>",
           "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>Pyszkowo 9 (pow. Włocławski)<br>87-851 Boniewo",
           "form": {
             "title": "MESSAGE",
@@ -501,7 +544,7 @@
           "_anchor": "contacts3-8",
           "_styles": {
             "UL": {
-              "color": "#ffffff"
+              "color": "#c0a375"
             }
           }
         }
@@ -511,7 +554,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Kosztorysy",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -584,11 +627,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/miara-3-160x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -662,13 +706,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/miara-3-265x212.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -756,7 +801,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Rysunki budowlane",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -829,11 +874,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/miara-3-160x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -912,13 +958,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/miara-3-265x212.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -1006,7 +1053,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Doradztwo",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -1079,11 +1126,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/miara-3-160x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1121,7 +1169,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Doradztwo",
-          "text": "<p>odbiory robót</p>",
+          "text": "<p>odbiory</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1135,7 +1183,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Małe inwestycje czy remonty często są prowadzone osobiście przez inwestorów. Z powodu braku specjastycznej wiedzy potrzebują oni jednak wsparcia. Czasem trzeba polecić wykonawcę, sprawdzić ofertę, skontrować jakość wykonanych robót lub nakreślić plan działania. Nasza firma stara się wyjść naprzeciw takim potrzebom i wspomóc niewielkie inwestycje także pojedynczymi spotkaniami.</p></blockquote>",
+          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Małe inwestycje czy remonty często są prowadzone osobiście przez inwestorów. Z powodu braku specjalistycznej wiedzy potrzebują oni jednak wsparcia. Czasem trzeba polecić wykonawcę, sprawdzić ofertę, skontrować jakość wykonanych robót lub nakreślić plan działania. Nasza firma stara się wyjść naprzeciw takim potrzebom i wspomóc niewielkie inwestycje także pojedynczymi spotkaniami.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Nasze doświadczenie pozwala także na dokonywanie odbiorów technicznych nieruchomości przed zakupem. Odbieramy mieszkania i domy zarówno z rynku pierwotnego jak i wtórnego, w oparciu o istniejące normy.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1157,13 +1205,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/miara-3-265x212.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -1251,7 +1300,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Koordynacja budowy",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1324,11 +1373,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/miara-3-160x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1402,13 +1452,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/miara-3-265x212.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -1496,7 +1547,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Kostka brukowa",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1558,13 +1609,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/holland-600x435.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20210926-121703-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1728,6 +1780,54 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20220601-82542-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20220601-82542-2000x2667-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20220615-180659-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20220615-180659-2000x2667-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20210926-121738-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20210926-121738-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nostalit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20220615-180720-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20220615-180720-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -1809,11 +1909,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/miara-3-160x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1824,6 +1925,294 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TOKU Projekt</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-y"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Remonty",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20230113-111545-2000x2667-800x1067.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Remonty",
+          "text": "<p>przebudowy, wykończenia, adaptacje</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "Nasza firma oferuje kompleksowe usługi budowlane. Posiadamy doświadczenie zarówno w budowie nowych obiektów, remontach jak i przebudowach czy adaptacjach. Oferujemy doradztwo podczas całego procesu inwestycyjnego, od pomysłu po przeprowadzkę.",
+          "text2": "Prace wykonujemy nie tylko dzięki własnym pracownikom, ale również wyspecjalizowanym podwykonawcom. Pozwala to na większą elastyczność w działaniu oraz poszerzenie zakresu usług. Dzięki temu klient nie musi szukać oddzielnie projektanta, hydraulika czy dekarza, sami uzupełniamy zespół konieczny do realizacji zadania.",
+          "text3": "Zawsze pracujemy w oparciu o umowę a rozliczamy się przez faktury. Dzięki temu możemy w uczciwy sposób zaoferować usługi razem z materiałem. Dzięki temu klient nie musi martwić się o szukanie materiałów w hurtowniach czy kontrolować zużycie. Jasno przedstawiamy ofertę cenową i trzymamy się jej do końca.&nbsp;&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-1t"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#c1c1c1",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20230115-151114-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20230115-151114-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20230115-151812-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20230115-151812-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20230115-152230-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20230115-152230-2000x2667-800x1067.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20230115-145836-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20230115-145836-2000x2667-800x1067.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20221010-95045-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20221010-95045-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20221028-91839-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20221028-91839-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20230113-111545-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20230113-111545-2000x2667-800x1067.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20221209-124552-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20221209-124552-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20221209-124605-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20221209-124605-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20221209-124614-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20221209-124614-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1s"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-7\">OFERTA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-t\">OPINIE KLIENTÓW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-8\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TOKU Projekt</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1q"
         },
         {
           "_params": {
@@ -1840,13 +2229,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/miara-3-265x212.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-wektorowe-bardzo-uproszczone.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -1887,7 +2277,7 @@
           "text2": "698 897 970",
           "text3": "Pyszkowo pow. Włocławski",
           "text4": "<a href=\"mailto:support@mobirise.com\">z</a>bigniew.topolski@gmail.com",
-          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li>",
+          "text5": "<li><a href=\"page1.html\">Kosztorysy</a></li><li><a href=\"page2.html\">Rysunki budowlane</a></li><li><a href=\"page3.html\">Doradztwo</a></li><li><a href=\"page4.html\">Koordynacja budowy</a></li><li><a href=\"page5.html\" class=\"text-primary\">Kostka brukowa</a></li><li><a href=\"page7.html\" class=\"text-primary\">Roboty budowlane</a></li>",
           "text6": "<strong>Kontakt</strong><br>Email: zbigniew.topolski@gmail.com<br>Telefon: 698 897 970<br><br><br><br><strong>Adres</strong><br>TOKU Projekt Zbigniew Topolski<br>Pyszkowo 9 (pow. Włocławski)<br>87-851 Boniewo",
           "form": {
             "title": "MESSAGE",
@@ -1923,10 +2313,10 @@
           "_name": "contacts3",
           "_styles": {
             "UL": {
-              "color": "#ffffff"
+              "color": "#c0a375"
             }
           },
-          "_anchor": "contacts3-11"
+          "_anchor": "contacts3-1r"
         }
       ]
     }
