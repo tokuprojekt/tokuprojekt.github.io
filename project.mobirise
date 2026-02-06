@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TOKU Projekt",
-    "currentPage": "page5.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://tokuprojekt.github.io/",
     "sitemapSwitcherAuto": true,
-    "favicon": "",
+    "favicon": false,
     "": "on",
     "robotsSwitcher": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-54539968-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-54539968-2');\n</script>",
@@ -36,7 +36,10 @@
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "mbrsiteDomain": "w17wceckv5",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -369,8 +372,8 @@
           "subtitle2": "inwentaryzacje, CAD",
           "caption2": "Wykonujemy także inwentaryzacje robót, inwentaryzacje architektoniczne lub zwykłe szkice i rysunki w programie CAD.",
           "title3": "Doradztwo",
-          "subtitle3": "odbiory robót",
-          "caption3": "Chcesz sprawdzić prawidłowość robót wykonawcy? Może potrzebujesz pomocy w znalezieniu nowej ekipy? Nie wiesz, od czego zacząć remont? Zapraszam do kontaktu.",
+          "subtitle3": "odbiory robót, badania kamerą termowizyjną",
+          "caption3": "Chcesz sprawdzić prawidłowość robót wykonawcy? Nie wiesz gdzie ucieka ci ciepło z domu? Nie wiesz, od czego zacząć remont? Zapraszam do kontaktu.",
           "title4": "Koordynacja budowy",
           "subtitle4": "czyli obsługa w pełnym zakresie",
           "caption4": "Dla większych inwestycji lub firm budowlanych oferujemy także kompleksową lub częściową koordynację budowy.",
@@ -554,7 +557,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Kosztorysy",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -801,7 +804,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Rysunki budowlane",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -1053,7 +1056,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Doradztwo",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -1169,7 +1172,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Doradztwo",
-          "text": "<p>odbiory</p>",
+          "text": "<p>odbiory, badania kamerą termowizyjną</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1183,7 +1186,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Małe inwestycje czy remonty często są prowadzone osobiście przez inwestorów. Z powodu braku specjalistycznej wiedzy potrzebują oni jednak wsparcia. Czasem trzeba polecić wykonawcę, sprawdzić ofertę, skontrować jakość wykonanych robót lub nakreślić plan działania. Nasza firma stara się wyjść naprzeciw takim potrzebom i wspomóc niewielkie inwestycje także pojedynczymi spotkaniami.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Nasze doświadczenie pozwala także na dokonywanie odbiorów technicznych nieruchomości przed zakupem. Odbieramy mieszkania i domy zarówno z rynku pierwotnego jak i wtórnego, w oparciu o istniejące normy.</p></blockquote>",
+          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;Małe inwestycje czy remonty często są prowadzone osobiście przez inwestorów. Z powodu braku specjalistycznej wiedzy potrzebują oni jednak wsparcia. Czasem trzeba polecić wykonawcę, sprawdzić ofertę, skontrować jakość wykonanych robót lub nakreślić plan działania. Nasza firma stara się wyjść naprzeciw takim potrzebom i wspomóc niewielkie inwestycje także pojedynczymi spotkaniami.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Nasze doświadczenie pozwala także na dokonywanie odbiorów technicznych nieruchomości przed zakupem. Odbieramy mieszkania i domy zarówno z rynku pierwotnego jak i wtórnego, w oparciu o istniejące normy. Istnieje także możliwość wykonania badania kamera termowizyjną, dzięki temu możemy sprawdzić skuteczność izolacji termicznej budynku, znaleźć zawilgocenia lub przegrzewające się obwody elektryczne.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1300,7 +1303,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Koordynacja budowy",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1931,8 +1934,8 @@
     "page7.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "Remonty",
-        "order": 3
+        "title": "Budowa",
+        "order": 1
       },
       "components": [
         {
@@ -1960,8 +1963,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Remonty",
-          "text": "<p>przebudowy, wykończenia, adaptacje</p>",
+          "title": "Budowa",
+          "text": "<p>remont, przebudowa.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1977,7 +1980,7 @@
           },
           "text1": "Nasza firma oferuje kompleksowe usługi budowlane. Posiadamy doświadczenie zarówno w budowie nowych obiektów, remontach jak i przebudowach czy adaptacjach. Oferujemy doradztwo podczas całego procesu inwestycyjnego, od pomysłu po przeprowadzkę.",
           "text2": "Prace wykonujemy nie tylko dzięki własnym pracownikom, ale również wyspecjalizowanym podwykonawcom. Pozwala to na większą elastyczność w działaniu oraz poszerzenie zakresu usług. Dzięki temu klient nie musi szukać oddzielnie projektanta, hydraulika czy dekarza, sami uzupełniamy zespół konieczny do realizacji zadania.",
-          "text3": "Zawsze pracujemy w oparciu o umowę a rozliczamy się przez faktury. Dzięki temu możemy w uczciwy sposób zaoferować usługi razem z materiałem. Dzięki temu klient nie musi martwić się o szukanie materiałów w hurtowniach czy kontrolować zużycie. Jasno przedstawiamy ofertę cenową i trzymamy się jej do końca.&nbsp;&nbsp;",
+          "text3": "Zawsze pracujemy w oparciu o umowę a rozliczamy się przez faktury. Dzięki temu możemy w uczciwy sposób zaoferować usługi razem z materiałem. Klient nie musi tracić czasu na szukanie materiałów w hurtowniach. Jasno przedstawiamy ofertę cenową i trzymamy się jej do końca.&nbsp;&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -2019,7 +2022,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -2112,6 +2115,138 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/20221209-124614-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20221209-124614-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20230115-151812-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20230115-151812-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20240628-182930-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20240628-182930-2000x2667-800x1067.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20240828-163022-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20240828-163022-2000x2667-800x1067.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20240910-80047-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20240910-80047-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20240910-115851-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20240910-115851-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20241017-111620-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20241017-111620-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20250304-120359-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20250304-120359-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20250624-153832-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20250624-153832-2000x2667-800x1067.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20250712-124559-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20250712-124559-2000x2667-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20250730-93939-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20250730-93939-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20251017-111358-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20251017-111358-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
